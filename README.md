@@ -14,7 +14,7 @@ The default MEAN stack you get out of the box can work with either Angular or Re
 * [Angular4 web starter](https://github.com/AngularClass/angular-starter)
 * [MongoDB](https://www.mongodb.com)
 * [Express](https://expressjs.com/)
-* [Innograph](https://github.com/linnovate/innograph) (uses GraphQL for schema standartization)
+* [Innograph](https://github.com/linnovate/innograph) (uses GraphQL for schema standardization)
 * [Bit](https://bitsrc.io/) - (Manages js components, services and schemas)
 
 If you're looking for the classic angular-1.x version of mean, it has moved to this [1.x branch](https://github.com/linnovate/mean/tree/1.x). 
